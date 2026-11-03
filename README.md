@@ -18,13 +18,13 @@ Estou em **Fortaleza, Ceará**, e uso este espaço para compartilhar o que const
 
 ### 01 / ApexBet
 
-**Plataforma web · Laravel · PHP · JavaScript · SQLite**
+**PHP · Laravel · HTML · CSS · JavaScript · SQLite**
 
-Catálogo de jogos com autenticação, administração de contas, banners, promoções, afiliados e webhooks assinados. Interface em português e inglês.
+Plataforma web com interface em português e inglês.
 
-O projeto permite explorar tanto a experiência do usuário quanto a organização do backoffice. Pagamentos e execução de jogos dependem de integrações externas ainda não implementadas.
+Demonstração visual do projeto. O código-fonte é privado.
 
-[Explorar código e documentação →](https://github.com/Leonardo-sant/apexbet)
+[Visitar o site →](https://apexbet-163-176-183-236.sslip.io/)
 
 ---
 
@@ -54,3 +54,4 @@ Também mantenho meus estudos em **Python**, passando por estruturas de dados, o
 ---
 
 <p align="center"><sub>Do primeiro layout à organização do sistema — um projeto de cada vez.</sub></p>
+
