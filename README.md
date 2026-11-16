@@ -26,16 +26,6 @@ Demonstração visual do projeto. O código-fonte é privado.
 
 [Visitar o site →](https://apexbet-163-176-183-236.sslip.io/)
 
----
-
-### 02 / Lottopay
-
-**Site institucional · Next.js · TypeScript · Tailwind CSS**
-
-Site organizado em componentes reutilizáveis, com conteúdo centralizado, layout responsivo e animações com Framer Motion.
-
-[Explorar o projeto →](https://github.com/Leonardo-sant/sitelottopay2)
-
 ## Tecnologias
 
 | Área | Tecnologias usadas nos projetos |
